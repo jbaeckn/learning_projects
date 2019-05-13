@@ -5,5 +5,6 @@ The purpose of this repository is to apply data analysis/machine learning techni
 1. FastCampus Data Science Extension School
 2. Inflearn Machine Learning Course
 3. Hands-On Machine Learning with Scikit-Learn and TensorFlow (Aurélien Géron)
+4. Kaggle Projects
 
 Python was used extensively on most of the exercises 
