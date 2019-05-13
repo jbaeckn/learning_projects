@@ -1,4 +1,4 @@
-# Learning_projects
+# Side Projects
 
 The purpose of this repository is to apply data analysis/machine learning techniques that I have learned through various sources, including, but not limited to the followings:<br>
 
